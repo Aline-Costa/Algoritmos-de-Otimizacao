@@ -3,9 +3,9 @@
 <h3> Algoritmos utilizados: </h3>
 
 <ul>
-    <li> hill_climb </li>
-    <li> simulated_annealing </li>
-    <li> generic_algorithm </li>
+    <li> Hill Climb </li>
+    <li> Simulated Annealing </li>
+    <li> Generic Algorithm </li>
 </ul>
 
 <h3> Problema: </h3>
